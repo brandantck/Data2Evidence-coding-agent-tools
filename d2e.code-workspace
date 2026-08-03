@@ -21,16 +21,16 @@
       "path": "repos/trex-runtime",
     },
     {
-      "name": "trexsql-ext",
-      "path": "repos/trexsql-ext",
-    },
-    {
       "name": "e2e",
       "path": "repos/e2e",
     },
     {
       "name": "wizards-dashboard",
       "path": "repos/wizards-dashboard",
+    },
+    {
+      "name": "d2e-deploy",
+      "path": "repos/d2e-deploy",
     },
   ],
   "settings": {
